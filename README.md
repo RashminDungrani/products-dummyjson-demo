@@ -1,4 +1,4 @@
-# mobile_demo
+# Products DummyJson demo
 
 A new Flutter project.
 
